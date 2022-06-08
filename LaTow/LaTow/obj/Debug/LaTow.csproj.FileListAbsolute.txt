@@ -1,0 +1,11 @@
+D:\LaTow\LaTow\bin\Debug\LaTow.exe.config
+D:\LaTow\LaTow\bin\Debug\LaTow.exe
+D:\LaTow\LaTow\bin\Debug\LaTow.pdb
+D:\LaTow\LaTow\obj\Debug\LaTow.csproj.AssemblyReference.cache
+D:\LaTow\LaTow\obj\Debug\LaTow.csproj.SuggestedBindingRedirects.cache
+D:\LaTow\LaTow\obj\Debug\LaTow.Form1.resources
+D:\LaTow\LaTow\obj\Debug\LaTow.Properties.Resources.resources
+D:\LaTow\LaTow\obj\Debug\LaTow.csproj.GenerateResource.cache
+D:\LaTow\LaTow\obj\Debug\LaTow.csproj.CoreCompileInputs.cache
+D:\LaTow\LaTow\obj\Debug\LaTow.exe
+D:\LaTow\LaTow\obj\Debug\LaTow.pdb
